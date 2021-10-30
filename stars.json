@@ -21,7 +21,7 @@
     "full_name": "piomin/sample-spring-microservices",
     "stargazers_count": 409,
     "open_issues_count": 10,
-    "forks_count": 695
+    "forks_count": 697
   },
   {
     "full_name": "callicoder/spring-boot-mysql-rest-api-tutorial",
@@ -37,43 +37,43 @@
   },
   {
     "full_name": "cimgui/cimgui",
-    "stargazers_count": 811,
+    "stargazers_count": 812,
     "open_issues_count": 9,
-    "forks_count": 164
+    "forks_count": 165
   },
   {
     "full_name": "eugenp/tutorials",
-    "stargazers_count": 27903,
-    "open_issues_count": 66,
-    "forks_count": 44865
+    "stargazers_count": 27934,
+    "open_issues_count": 68,
+    "forks_count": 44926
   },
   {
     "full_name": "sequelize/sequelize",
-    "stargazers_count": 25165,
-    "open_issues_count": 1518,
-    "forks_count": 3862
+    "stargazers_count": 25176,
+    "open_issues_count": 1513,
+    "forks_count": 3864
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 52486,
-    "open_issues_count": 324,
-    "forks_count": 5405
+    "stargazers_count": 52631,
+    "open_issues_count": 326,
+    "forks_count": 5419
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 75176,
-    "open_issues_count": 460,
-    "forks_count": 29410
+    "stargazers_count": 75240,
+    "open_issues_count": 464,
+    "forks_count": 29440
   },
   {
     "full_name": "JuliaLang/julia",
-    "stargazers_count": 36772,
-    "open_issues_count": 4274,
-    "forks_count": 4654
+    "stargazers_count": 36801,
+    "open_issues_count": 4281,
+    "forks_count": 4657
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 24524,
+    "stargazers_count": 24566,
     "open_issues_count": 36,
     "forks_count": 867
   },
@@ -81,13 +81,13 @@
     "full_name": "kubernetes-sigs/slack-infra",
     "stargazers_count": 76,
     "open_issues_count": 1,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 123088,
-    "open_issues_count": 5196,
-    "forks_count": 20525
+    "stargazers_count": 123238,
+    "open_issues_count": 5194,
+    "forks_count": 20561
   },
   {
     "full_name": "gazbert/java-design-patterns",
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "mechero/spring-boot-testing-strategies",
-    "stargazers_count": 285,
+    "stargazers_count": 286,
     "open_issues_count": 0,
     "forks_count": 109
   },
   {
     "full_name": "sqshq/piggymetrics",
-    "stargazers_count": 10978,
+    "stargazers_count": 10990,
     "open_issues_count": 12,
-    "forks_count": 5288
+    "forks_count": 5294
   },
   {
     "full_name": "modelmapper/modelmapper",
-    "stargazers_count": 1860,
+    "stargazers_count": 1862,
     "open_issues_count": 199,
-    "forks_count": 281
+    "forks_count": 282
   },
   {
     "full_name": "koding/koding-kubernetes",
@@ -133,37 +133,37 @@
   },
   {
     "full_name": "koding/kite",
-    "stargazers_count": 3081,
+    "stargazers_count": 3082,
     "open_issues_count": 33,
     "forks_count": 301
   },
   {
     "full_name": "koding/koding",
-    "stargazers_count": 1925,
+    "stargazers_count": 1927,
     "open_issues_count": 252,
-    "forks_count": 559
+    "forks_count": 560
   },
   {
     "full_name": "spring-projects-experimental/spring-boot-thin-launcher",
-    "stargazers_count": 548,
+    "stargazers_count": 550,
     "open_issues_count": 15,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "spring-projects-experimental/spring-fu",
-    "stargazers_count": 1557,
-    "open_issues_count": 47,
-    "forks_count": 132
+    "stargazers_count": 1560,
+    "open_issues_count": 44,
+    "forks_count": 133
   },
   {
     "full_name": "spring-projects/spring-authorization-server",
-    "stargazers_count": 2824,
+    "stargazers_count": 2836,
     "open_issues_count": 37,
-    "forks_count": 528
+    "forks_count": 536
   },
   {
     "full_name": "ramazansakin/sample-spring-microservices",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
