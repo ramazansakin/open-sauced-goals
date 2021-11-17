@@ -1,7 +1,7 @@
 [
   {
     "full_name": "ramazansakin/ghclogger",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -13,81 +13,81 @@
   },
   {
     "full_name": "umutphp/backend-best-practices",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "piomin/sample-spring-microservices",
-    "stargazers_count": 411,
+    "stargazers_count": 413,
     "open_issues_count": 10,
     "forks_count": 707
   },
   {
     "full_name": "callicoder/spring-boot-mysql-rest-api-tutorial",
-    "stargazers_count": 306,
+    "stargazers_count": 312,
     "open_issues_count": 6,
     "forks_count": 339
   },
   {
     "full_name": "velopert/velog",
-    "stargazers_count": 568,
+    "stargazers_count": 569,
     "open_issues_count": 40,
     "forks_count": 134
   },
   {
     "full_name": "cimgui/cimgui",
-    "stargazers_count": 819,
+    "stargazers_count": 820,
     "open_issues_count": 9,
     "forks_count": 166
   },
   {
     "full_name": "eugenp/tutorials",
-    "stargazers_count": 28087,
-    "open_issues_count": 58,
-    "forks_count": 45167
+    "stargazers_count": 28153,
+    "open_issues_count": 57,
+    "forks_count": 45252
   },
   {
     "full_name": "sequelize/sequelize",
-    "stargazers_count": 25250,
-    "open_issues_count": 972,
-    "forks_count": 3874
+    "stargazers_count": 25265,
+    "open_issues_count": 975,
+    "forks_count": 3876
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 52975,
-    "open_issues_count": 324,
-    "forks_count": 5451
+    "stargazers_count": 53072,
+    "open_issues_count": 325,
+    "forks_count": 5471
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 75746,
+    "stargazers_count": 75877,
     "open_issues_count": 465,
-    "forks_count": 29576
+    "forks_count": 29618
   },
   {
     "full_name": "JuliaLang/julia",
-    "stargazers_count": 37016,
-    "open_issues_count": 4257,
-    "forks_count": 4674
+    "stargazers_count": 37078,
+    "open_issues_count": 4255,
+    "forks_count": 4682
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 24698,
+    "stargazers_count": 24738,
     "open_issues_count": 35,
     "forks_count": 873
   },
   {
     "full_name": "kubernetes-sigs/slack-infra",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 123962,
-    "open_issues_count": 5200,
-    "forks_count": 20661
+    "stargazers_count": 124161,
+    "open_issues_count": 5202,
+    "forks_count": 20694
   },
   {
     "full_name": "gazbert/java-design-patterns",
@@ -97,69 +97,69 @@
   },
   {
     "full_name": "mechero/full-reactive-stack",
-    "stargazers_count": 261,
+    "stargazers_count": 264,
     "open_issues_count": 2,
     "forks_count": 125
   },
   {
     "full_name": "mechero/spring-boot-testing-strategies",
-    "stargazers_count": 297,
+    "stargazers_count": 298,
     "open_issues_count": 0,
     "forks_count": 111
   },
   {
     "full_name": "sqshq/piggymetrics",
-    "stargazers_count": 11031,
-    "open_issues_count": 12,
-    "forks_count": 5315
+    "stargazers_count": 11044,
+    "open_issues_count": 13,
+    "forks_count": 5322
   },
   {
     "full_name": "modelmapper/modelmapper",
-    "stargazers_count": 1873,
-    "open_issues_count": 199,
-    "forks_count": 285
+    "stargazers_count": 1875,
+    "open_issues_count": 201,
+    "forks_count": 284
   },
   {
     "full_name": "koding/koding-kubernetes",
-    "stargazers_count": 14,
+    "stargazers_count": 16,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "koding/kd",
-    "stargazers_count": 110,
+    "stargazers_count": 112,
     "open_issues_count": 2,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "koding/kite",
-    "stargazers_count": 3085,
+    "stargazers_count": 3086,
     "open_issues_count": 33,
     "forks_count": 299
   },
   {
     "full_name": "koding/koding",
-    "stargazers_count": 1931,
+    "stargazers_count": 1935,
     "open_issues_count": 252,
-    "forks_count": 564
+    "forks_count": 565
   },
   {
     "full_name": "spring-projects-experimental/spring-boot-thin-launcher",
-    "stargazers_count": 552,
+    "stargazers_count": 553,
     "open_issues_count": 15,
-    "forks_count": 76
+    "forks_count": 75
   },
   {
     "full_name": "spring-projects-experimental/spring-fu",
-    "stargazers_count": 1564,
-    "open_issues_count": 44,
-    "forks_count": 133
+    "stargazers_count": 1566,
+    "open_issues_count": 45,
+    "forks_count": 132
   },
   {
     "full_name": "spring-projects/spring-authorization-server",
-    "stargazers_count": 2881,
-    "open_issues_count": 40,
-    "forks_count": 548
+    "stargazers_count": 2890,
+    "open_issues_count": 42,
+    "forks_count": 551
   },
   {
     "full_name": "ramazansakin/sample-spring-microservices",
